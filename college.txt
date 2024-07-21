@@ -1,2 +1,2 @@
-first line of the college file.
-conflicting.........
+first line of the college file. Second line of the page.
+
